@@ -30,7 +30,7 @@ The plugin automatically adjusts the product's net price (without VAT) based on 
 
 ## FAQs
 
-### Does this plugin handle digital goods? =
+### Does this plugin handle digital goods?
 
 Yes, the plugin works for both physical and digital products.
 
